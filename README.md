@@ -19,8 +19,3 @@ Una ofrenda virtual interactiva creada con **Three.js**, celebrando el espíritu
 
 ## 🎨 Descripción  
 Este proyecto representa una ofrenda tradicional de Día de Muertos en un entorno 3D, donde el usuario puede visualizar y explorar elementos simbólicos mediante Three.js. Está pensado para uso personal, educativo o como parte de un portafolio.
-
-## 🛠️ Cómo ejecutarlo localmente  
-1. Clona este repositorio o descarga el ZIP.  
-   ```bash
-   git clone https://github.com/dplay123/Ofrenda_2742.git
